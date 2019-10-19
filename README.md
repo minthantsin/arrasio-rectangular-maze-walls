@@ -8,6 +8,11 @@ https://github.com/Sinova/Collisions
 The files can be found under "src\server\lib\cs" folder.
 ****************************************************************************************************
 
+# Tools used to build and run the game:
+- gulp
+- npm
+- Node.js
+
 
 # Changes required
 - Find "Maze Wall" for the changes required in app.js, server.js, definitions.js, hshg.js etc.
