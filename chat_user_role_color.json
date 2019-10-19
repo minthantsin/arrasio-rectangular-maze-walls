@@ -1,0 +1,10 @@
+{
+    "blacklist": 19,
+    "guest": 8,
+    "member": 10,
+    "member_female": 5,
+    "ambassador": 4,
+    "moderator": 13,
+    "admin": 2,
+    "owner": 11
+}
