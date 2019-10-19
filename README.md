@@ -4,7 +4,7 @@ Chat system is also included (https://github.com/minthantsin/arrasio-chat-system
 
 ****************************************************************************************************
 This project makes use of the following collision detection system for rectangular maze walls.
-https://github.com/Sinova/Collisions
+https://github.com/Sinova/Collisions.
 The files can be found under "src\server\lib\cs" folder.
 ****************************************************************************************************
 
@@ -31,7 +31,7 @@ Initial loading time may take a while.
 http://arras.vip
 
 # Screenshots
-Here are some screenshots of the game with chat system in action.
+Here are some screenshots of the game with rectangular maze walls.
 
     
 https://i.imgur.com/BFhpamn.png
