@@ -1,3 +1,6 @@
+# Original arras.io Source Code
+https://github.com/nepphhh/arrasio
+
 # arrasio-rectangular-maze-walls
 Arras.io (Diep2.io) game with rectangular maze walls.
 Chat system is also included (https://github.com/minthantsin/arrasio-chat-system).
