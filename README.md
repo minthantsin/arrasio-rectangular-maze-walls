@@ -21,21 +21,12 @@ The files can be found under "src\server\lib\cs" folder.
 - Find "Maze Wall" for the changes required in app.js, server.js, definitions.js, hshg.js etc.
 
 
-# Demo Server 1
+# Demo Server
 Initial loading time may take a while.
-http://arras.cc
-
-# Demo Server 2
-Initial loading time may take a while.
-http://arras.pro
-
-# Demo Server 3
-Initial loading time may take a while.
-http://arras.fun
+https://tankster.io
 
 # Screenshots
 Here are some screenshots of the game with rectangular maze walls.
-
     
 https://i.imgur.com/BFhpamn.png
 
